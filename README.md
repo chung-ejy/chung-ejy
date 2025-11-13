@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chung-ejy
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning project management
-- :handshake: I’m looking to collaborate on machine learning applications
+- 👀 I’m interested in financial education.
+- 🌱 I’m currently learning feature management.
+- :handshake: I’m looking to collaborate on data analysis projects.
 - 📫 How to reach me ... chung.ejy@gmail.com
 - My stuff: www.ejchung.cloud/
 
